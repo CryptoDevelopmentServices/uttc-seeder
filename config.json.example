@@ -1,0 +1,18 @@
+{
+  "loop": true,
+  "delay": 300,
+  "debug": false,
+  "zones": {
+  "domain-mainnet": {
+    "domain": "76.245.194.107",
+    "provider": "cloudflare",
+    "login": "your_email_here",
+    "password": "312089eh2938",
+    "subdomain": "mainnet",
+    "rpc_host": "127.0.0.1",
+    "rpc_port": "52202",
+    "required_port": "52201"
+  },
+ 
+  }
+}
